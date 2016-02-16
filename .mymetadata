@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WebPageMonitor"
+  id="myeclipse.1455352742329"
+  context-root="/WebPageMonitor"
+  j2ee-spec="5.0"
+  archive="WebPageMonitor.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
